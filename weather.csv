@@ -1,0 +1,6 @@
+City,DateTime,Temperature,Condition,Source_URL,Temp_Value,Temp_Unit
+"Weather in New York, New York, USA",N/A,13 °C,Clear.,https://www.timeanddate.com/weather/usa/new-york,13.0,C
+"Weather in New Delhi, Delhi, India",N/A,14 °C,Fog.,https://www.timeanddate.com/weather/india/new-delhi,14.0,C
+"Weather in London, England, United Kingdom",N/A,13 °C,Low clouds.,https://www.timeanddate.com/weather/uk/london,13.0,C
+"Weather in Sydney, New South Wales, Australia",N/A,30 °C,Sunny.,https://www.timeanddate.com/weather/australia/sydney,30.0,C
+"Weather in Tokyo, Japan",N/A,13 °C,Refreshingly cool.,https://www.timeanddate.com/weather/japan/tokyo,13.0,C
